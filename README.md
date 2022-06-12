@@ -12,7 +12,7 @@
 
 ## 🚨 Have a Problem
 
-✈ Join Discord:  [BobeeBeatz Studio](https://discord.gg/6ePN9bxXRx)
+✈ Join Discord:  [Calin Engine](https://discord.gg/PrkvzXRw)
    mention me in chat #general or #javascript and ask problem okay! 👌
 
 ## 🛑 Requirements
